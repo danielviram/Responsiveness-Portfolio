@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  body{
+      background-color: #1f2235;
+      color: white;
+      font-family: 'Baloo Tammudu 2';
+  }
+/* ABOUT ME CSS */
+  .main-container{
+      min-height: 100%;
+      padding-top: 30px;
+  }
+  .main_row{
+    font-family: 'Roboto Slab', serif;
+  }
+
+  .main_picture {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    float: left;
+  }
+  
+  .about-me-text{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    float: right;
+    font-family: 'Roboto Slab', serif;
+
+  }
+
+  /* PORTFOLIO CSS */
+  
