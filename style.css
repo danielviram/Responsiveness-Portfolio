@@ -79,14 +79,14 @@
   background-color: coral;
 }
 #back_con{
-  background-color: coral;
+  background-color:coral;
 }
-#about{
+#about {
   background-color: coral;
   padding-bottom: 20px;
   padding-top: 20px;
 }
-
+;
 /* Contact Us  */
 .form-group{
   float: center;
