@@ -12,7 +12,7 @@
 
 @media screen and (min-width: 768px) {
       body {
-        
+
       }
     }
 @media screen and(min-width: 992px){
@@ -78,14 +78,14 @@
   height: fit-content;
   background-color: coral;
 }
-#back_con{
+/* #back_con{
   background-color: coral;
 }
 #about{
   background-color: coral;
   padding-bottom: 20px;
   padding-top: 20px;
-}
+} */
 
 /* Contact Us  */
 .form-group{
