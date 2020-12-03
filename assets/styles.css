@@ -1,0 +1,17 @@
+
+.page-title{
+    letter-spacing: 0.15em;
+    margin-top: 2.1em;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 700;
+}
+    
+
+.custom-bg{
+
+    background-color: blueviolet;
+}
+
+.text-align{
+    display: block;
+}
